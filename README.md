@@ -9,6 +9,7 @@ This is a starter kit for reactjs which is simply have advanced features than th
 - npm install babel-preset-react-hmre --save-dev (hot module reloading plugin)
 - npm install --save webpack-dev-middleware webpack-hot-middleware
 - npm install --save redux react-redux
+- npm install --save redux-logger
 
 #Run
 - node server/server.js or using nodemon **npm run serve**
